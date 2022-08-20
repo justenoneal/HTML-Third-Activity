@@ -1,47 +1,39 @@
 span {
     display: inline-block;
   }
-  /* span {
-    display: inline-block;
-    background-color: lightblue;
-    padding: 5px;
-    border: 1px solid darkgray;
-  } */
-  /* 
-  #one {
-    background-color:lightblue;
-    width: 150px;
-    height: 200px;
+
+  body {
+    text-align: center;
+    border: 1px;
+}
+
+  h1 {
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: rgb(73, 67, 57);
+      border-bottom: 1px solid black ;
+      padding-bottom: 12px;
   }
-  
-  #two {
-    background-color: cornflowerblue;
-    width: 200px;
-    height: 50px;
-  }
-  
-  #three {
-    background-color: rgb(187, 189, 243);
-    width: 175px;
-    height: 150px;
-  } */
-  
-  /* div,
+
+  div,
   span {
-    margin: 1px;
+    margin: 5px;
   }
-  
-  span {
-    border: 1px solid #333;
-    
-    padding: 10px 15px;
-  }
-  
-  #pics span,
+
+#pics span,
   #text span {
     padding: 25px 30px;
+  }
+
+.small-jrpg-images {
+  border: 1px solid black;
+}  
+  .image-text {
+    text-align: center;
+    text-decoration: none;
+    color: rgb(73, 67, 57);
+    font-size: large;
   }
   
   #text span {
     background-color: white;
-  } */
+  }
